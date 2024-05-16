@@ -1,0 +1,58 @@
+@media only screen and (max-width: 600px) {
+    .navbar{  
+        height: 10%;
+    }
+    p{ 
+        font-size: small;
+        
+    }
+    .navbar2{ 
+       height: 5%;
+
+   }
+
+   h1{
+    font-size: small;
+   }
+   .tools{ 
+    margin-top: 0.5%;
+    
+   height: 5%;
+  
+}
+.para{
+    margin-top: 5%;
+    font-size: small;
+}
+.PARA2{
+    text-align: center;
+    font-size:small;
+}
+.box_4{
+    height: 12%;
+    width: 100%;
+    
+}
+.LINKBOXS{
+    justify-content: space-around;
+    display: flex;
+   
+    height: 50%;
+    width: 100%;
+   
+}
+.hadding{
+    padding-top: 1%;
+    height:10%;
+}
+.para3{ 
+    margin-top: 6%;
+    font-size:medium;
+   
+}
+.para4{ padding: 1%;
+    margin-top: 1%;
+    text-align: center;
+    font-size:medium;
+}
+}
